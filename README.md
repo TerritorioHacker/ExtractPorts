@@ -12,5 +12,8 @@ ExtractPorts es una función creada por S4vitar.  Esta herramienta nos mostrará
 
 Para la instalación de esta herramienta previamente se recomienda tener instalado ``bat`` que es una mejora del comando ``cat``.
 
-Para poder tener está función activa, simplemente nos dirigiremos a la carpeta .bashrc o .zshrc (la que utilicéis) y pegaremos la función.
+Para poder tener esta función activa, simplemente nos dirigiremos a la carpeta .bashrc o .zshrc (la que utilicéis) y pegaremos la función.
 
+## Menciones:
+
+Esta función está creada por el creador de contenido S4vitar, podéis encontrar una gran cantidad de información sobre ciberseguridad en sus canales de Youtube y Twitch.
